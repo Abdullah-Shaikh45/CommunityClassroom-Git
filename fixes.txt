@@ -2,3 +2,7 @@ This is bug fix file
 
 one more bug detected and fixed
 third bug detected and fixed
+
+pinkmode fix - one bug fixed
+
+another fix message for pink mode
