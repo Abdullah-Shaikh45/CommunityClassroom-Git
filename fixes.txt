@@ -6,3 +6,5 @@ third bug detected and fixed
 pinkmode fix - one bug fixed
 
 another fix message for pink mode
+
+another fix for purple mode
